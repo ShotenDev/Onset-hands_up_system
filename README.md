@@ -23,4 +23,4 @@ The default key in game is F2, you can change the key in "client.lua" file.
 You can also change the text in "index.html" file.
 
 ## :framed_picture: Screenshot
-![Screenshot of the system](https://zupimages.net/viewer.php?id=19/51/2hp8.png)
+![Screenshot of the system](https://zupimages.net/up/19/51/2hp8.png)
