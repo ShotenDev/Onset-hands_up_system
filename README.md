@@ -9,12 +9,12 @@ Put the folder "hands_up_system" in the folder "packages" on your server.
 Don't forget to add this package in server_config.json :
 
 ```bash
-	"packages": [
-		"default",
-		"freeroam",
-		"sandbox",
-        "hands_up_system"
-	],
+"packages": [
+    "default",
+    "freeroam",
+    "sandbox",
+    "hands_up_system"
+],
 ```
 
 ## Usage
