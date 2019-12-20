@@ -1,0 +1,32 @@
+/* CSS Document */
+
+.bloc {
+    border-radius: 10px;
+    box-shadow: 0 0 8px #555; 
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+.bloc h1 {
+    margin:0;
+    padding:5px;
+    font-size:1.5em;
+    color:#fff;
+    background-color:#1D81CB;
+    border:1px solid #1D81CB;
+    border-bottom:0;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.bloc p {
+    background-color:#e5e5e5;
+    padding:5px;
+    margin:0;
+    border:4px solid #1D81CB;
+    border-top:0;
+    border-radius: 0 0 10px 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif; 
+}
