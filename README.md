@@ -19,7 +19,7 @@ Don't forget to add this package in server_config.json :
 
 ## Usage
 
-The default key in game is F2, you can change the key in "client.lua" file.  
+The default key in game is "F2", you can change the key in "client.lua" file.  
 You can also change the text in "index.html" file.
 
 ## :framed_picture: Screenshot
